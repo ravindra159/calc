@@ -1,1 +1,2 @@
-int a,b trtun (a+b)
+int a,b return (a+b)
+int a,b return (a*b)
